@@ -30,9 +30,4 @@ An AI-powered healthcare web application developed for early dementia screening 
 
 Developed as an AI-based healthcare solution for intelligent dementia risk screening.
 
-**Author**
 
-**Vishnu Priya**
-
-Computer Science Engineering Student
-Passionate about AI, Healthcare Technology, and Real-World Problem Solving
